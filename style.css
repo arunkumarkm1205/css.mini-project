@@ -7,8 +7,6 @@
  }
  .main_box{
    background: url("photo.jpg");
-   /* background-color: azure;
-   */
    height: 100vh;
    background-size: cover;
  }
