@@ -6,9 +6,10 @@
   
  }
  .main_box{
-  background:url(https://www.nbd-direct.com/cdn/shop/collections/11.jpg?v=1685993087&width=1800) ;
-   height: 100vh;
+  background-image: url(photo.jpg);
+    height: 100vh;
    background-size: cover;
+   
  }
  .btn_one{
   color: white;
